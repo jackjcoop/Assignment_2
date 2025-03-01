@@ -1,2 +1,5 @@
+.ipynb_checkpoints/
+.virtual_documents/
 garbage_data/
+model_development/
 *.pth
